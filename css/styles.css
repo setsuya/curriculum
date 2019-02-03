@@ -1,0 +1,25 @@
+body{
+     background: #C9D6FF;
+     background: -webkit-linear-gradient(to left, #E2E2E2, #C9D6FF);
+     background: linear-gradient(to left, #E2E2E2, #C9D6FF);
+}
+
+.string_other_language{
+    cursor: pointer;
+}
+
+.section_title{
+    letter-spacing: 2px;
+}
+
+.progress{
+    box-shadow: 2px 2px 2px #000 inset;
+}
+
+.progress-bar{
+    box-shadow: 2px 2px 2px #000;
+}
+
+.string_about_contents p, p[class^="string_job_description_"]{
+    text-indent: 5%;
+}
