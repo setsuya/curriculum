@@ -18,6 +18,7 @@ languages = {
            "string_job_description_2": "Como parte do time de colaboradaores de TI, atuava no desenvolvimento do portal de colaboração científica onde os astrônomos trabalhavam. Atuando junto com cientistas e desenvolvedores em outros estados tanto no back-end utilizando Python quanto no front-end com HTML, CSS e JavaScript/jQuery.", 
            "string_job_description_3": "Atuei no desenvolvimento de sistemas ERP utilizados através do navegador para várias empresas cuidando da criação e manutenção tanto do front- quanto do back-end. Participava também das tomadas de decisão sobre a infraestrutura e tecnologias que seriam utilizadas para atender cada cliente.",
            "string_job_description_4": "Como colaborador externo desenvolvi uma aplicação em Python utilizando Tkinter para que os tradutores pudessem fazer as marcações em vídeos com os tempos das traduções, gerando arquivos que os dubladores posteriormente utilizam em estúdio para dublar o material original.", 
+           "string_job_description_5": "Como desenvolvedor web, atuo na implementação de vários projetos para diferentes clientes de diversas áreas de atuação em uma fábrica de software tanto no front- quanto no back-end utilizando diversas tecnologias como Python com Django ou JavaScript com React.", 
                    "string_education": "Educação", 
                       "string_finish": "Conclusão em", 
                     "string_finished": "Concluído em", 
@@ -30,6 +31,7 @@ languages = {
             "string_python_developer": "Desenvolvedor Python", 
                "string_web_developer": "Desenvolvedor web", 
         "string_web_developer_intern": "Desenvolvedor web estagiário", 
+                     "string_current": "atual", 
     }, 
     "en": {
               "string_other_language": "Ver em português", 
@@ -50,6 +52,7 @@ languages = {
            "string_job_description_2": "As part of the team of IT collaborators, I developed the scientific collaboration portal where the astronomers worked. Acting alongside scientists and developers in other states both on front-end development using Python and front-end development using HTML, CSS and JavaScript/jQuery.", 
            "string_job_description_3": "I was part in the development of ERP systems used through the web browser for various companies taking part on the creation and maintenance of both the front- and back-end. I also participated on decision-taking about infrastructure and technologies that were to be used to answer to every client's need.",
            "string_job_description_4": "As an external collaborator I developed an application in Python using Tkinter so that the translators could mark videos with the timecodes of the translations, generating files that voice actors would later use in studio to dub the original material.", 
+           "string_job_description_5": "As a web developer, I work implementing various projects for different clients of diverse acting areas at a software factory on front- as well as back-end utilizing several technologies like Python with Django or JavaScript with React.", 
                    "string_education": "Education", 
                       "string_finish": "Finish on", 
                     "string_finished": "Finished on", 
@@ -62,5 +65,6 @@ languages = {
             "string_python_developer": "Python developer", 
                "string_web_developer": "Web developer", 
         "string_web_developer_intern": "Web developer intern", 
+                     "string_current": "current", 
     }
 }

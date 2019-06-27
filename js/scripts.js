@@ -58,7 +58,14 @@ function translatePage(){
 
 function animateBars(){
     $(".progress-bar[data-width]").each(function(){
-        //console.log($(this).attr("data-width"));
         $(this).animate({"width": $(this).attr("data-width") + "%"}, 1000, "linear");
     });
+}
+
+function scrollToSection(section){
+    section_position = ($(section).offset().top - $("#navigation_topics").outerHeight()) - 10;
+
+    $("html, body").animate({
+        scrollTop: section_position
+    }, 500);
 }
